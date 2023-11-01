@@ -5,6 +5,8 @@
 
 PromptPal is an exceptional prompts management tool designed specifically for startups and individual contributors in the field of AI. It serves as a centralized platform to effortlessly manage prompts within your AI projects, enabling seamless collaboration and workflow optimization. With PromptPal, you can ensure efficient prompt tracking, simplify project management, and never miss a critical prompt.
 
+[![video guide](https://i9.ytimg.com/vi_webp/IjfrQNRUg_I/maxresdefault.webp?v=654257f9&sqp=CIiviaoG&rs=AOn4CLDqSDNbFOY-W3b51nvuNbj630yMYw)](https://youtu.be/IjfrQNRUg_I "PromptPal - a Prompt management service focusing on enterprise development and developer experience")
+
 # Features
 - **On-Premise and Cloud-Native**: PromptPal excels in both on-premise and cloud-native environments, making it a versatile solution for AI projects. Its lightweight architecture guarantees efficient resource utilization, ensuring optimal performance.
 
